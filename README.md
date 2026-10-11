@@ -20,6 +20,8 @@ The source code is kept private.
 - A native iOS app, built in SwiftUI, with a home screen widget.
 - A free, installable web version, a Progressive Web App that runs in the browser and
   can be added to the home screen, with no App Store and no expiry.
+  <img width="1588" height="2246" alt="bridge-poster" src="https://github.com/user-attachments/assets/4a1fb026-c76d-412f-86b7-199005ce52bb" />
+
 
 Both show the same three tabs and read the same data, so they always agree.
 
