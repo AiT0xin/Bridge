@@ -5,6 +5,8 @@ about, shows a set of live watch faces, and gathers the day's watch journalism i
 one place.
 
 ![Bridge](overview.jpg)
+<img width="11692" height="7315" alt="bagitdiagram" src="https://github.com/user-attachments/assets/aad46e44-8690-4c46-b9be-04555e0980b3" />
+
 
 Bridge is an independent passion project. It is not affiliated with any watch
 manufacturer or publication. There are no accounts, no tracking, and no data
