@@ -4,6 +4,7 @@ A companion app for watch enthusiasts. Bridge tracks what the watch world is tal
 about, shows a set of live watch faces, and gathers the day's watch journalism into
 one place.
 
+**Version 3**
 <img width="2500" height="1250" alt="BRIDGE v3 1" src="https://github.com/user-attachments/assets/88110611-141b-4078-8090-6f23628f64e8" />
 
 Bridge is an independent passion project. It is not affiliated with any watch
@@ -15,13 +16,8 @@ The source code is kept private.
 
 ## Two versions
 
-- A native iOS app, built in SwiftUI, with a home screen widget.
-- Version 2 is a free, installable web DEMO version, a Progressive Web App that runs in the browser and
-  can be added to the home screen, with no App Store and no expiry.
-  <img width="1588" height="2246" alt="bridge-poster" src="https://github.com/user-attachments/assets/4a1fb026-c76d-412f-86b7-199005ce52bb" />
-
-
-Both show the same three tabs and read the same data, so they always agree.
+- Version 3: A native iOS app, built in SwiftUI with full features.
+- Version 2: Is a web App that runs in the browser and can be added to the home screen, with no App Store and no expiry.
 
 ## Insight
 
