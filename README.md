@@ -4,7 +4,7 @@ A companion app for watch enthusiasts. Bridge tracks what the watch world is tal
 about, shows a set of live watch faces, and gathers the day's watch journalism into
 one place.
 
-<img width="2500" height="1100" alt="BRIDGE v3" src="https://github.com/user-attachments/assets/bc8c76c9-c603-4ca6-aafd-e470c87c6863" />
+<img width="2500" height="1250" alt="BRIDGE v3 1" src="https://github.com/user-attachments/assets/88110611-141b-4078-8090-6f23628f64e8" />
 
 Bridge is an independent passion project. It is not affiliated with any watch
 manufacturer or publication. There are no accounts, no tracking, and no data
