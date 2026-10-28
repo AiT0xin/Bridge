@@ -5,8 +5,7 @@ about, shows a set of live watch faces, and gathers the day's watch journalism i
 one place.
 
 ![Bridge](overview.jpg)
-<img width="11692" height="7315" alt="bagitdiagram" src="https://github.com/user-attachments/assets/aad46e44-8690-4c46-b9be-04555e0980b3" />
-
+<img width="1336" height="588" alt="F5D1AB60-4652-4545-BE17-333A37227D18_1_105_c" src="https://github.com/user-attachments/assets/c3da9090-f9e3-4ba9-ae63-1d03202a4847" />
 
 Bridge is an independent passion project. It is not affiliated with any watch
 manufacturer or publication. There are no accounts, no tracking, and no data
@@ -18,7 +17,7 @@ The source code is kept private.
 ## Two versions
 
 - A native iOS app, built in SwiftUI, with a home screen widget.
-- A free, installable web version, a Progressive Web App that runs in the browser and
+- Version 2 is a free, installable web DEMO version, a Progressive Web App that runs in the browser and
   can be added to the home screen, with no App Store and no expiry.
   <img width="1588" height="2246" alt="bridge-poster" src="https://github.com/user-attachments/assets/4a1fb026-c76d-412f-86b7-199005ce52bb" />
 
