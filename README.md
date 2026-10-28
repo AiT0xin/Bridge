@@ -66,5 +66,4 @@ so differences between brands carry more meaning than any single score.
 
 ## Privacy
 
-Bridge has no account system and collects no personal information. The only things it
-keeps are your chosen clock and display preferences, and those stay on your device.
+Bridge is inline with GDPR; it has no account system and collects no personal information.
